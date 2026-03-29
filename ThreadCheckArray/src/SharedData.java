@@ -16,7 +16,7 @@ public class SharedData
 	
 	/**
 	 * Constructs a SharedData object.
-	 * @param array the integer array
+	 * @param array1 the integer array
 	 * @param b an integer value
 	 */
     public SharedData(ArrayList<Integer> array1, int b) {
