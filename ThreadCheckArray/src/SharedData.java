@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /**
  * @author ranirenawe
  * @author fadikazoura
@@ -17,8 +19,8 @@ public class SharedData
 	 * @param array the integer array
 	 * @param b an integer value
 	 */
-    public SharedData(ArrayList<Integer> array, int b) {
-        this.array = array;
+    public SharedData(ArrayList<Integer> array1, int b) {
+        this.array = array1;
         this.b = b;
     }
 
